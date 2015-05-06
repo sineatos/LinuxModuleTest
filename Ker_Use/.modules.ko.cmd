@@ -1,0 +1,1 @@
+cmd_/home/sineatos/workspace/Ker_Use/modules.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sineatos/workspace/Ker_Use/modules.ko /home/sineatos/workspace/Ker_Use/modules.o /home/sineatos/workspace/Ker_Use/modules.mod.o

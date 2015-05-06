@@ -1,0 +1,1 @@
+cmd_/home/sineatos/workspace/SKM/skm.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sineatos/workspace/SKM/skm.ko /home/sineatos/workspace/SKM/skm.o /home/sineatos/workspace/SKM/skm.mod.o
